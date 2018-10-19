@@ -1,5 +1,5 @@
 # HabitTrackerApp
-Ninth App in Udacity's Android Basics Nanodegree by Google .This is a UI less app which uses SQLiteOpenHelper class to insert,read and update habits of user.
+Ninth App in Udacity's Android Basics Nanodegree by Google .This is a UI less app which uses SQLiteOpenHelper class to insert,read and update habits of user.Udacity, Inc. is a for-profit educational organization founded by Sebastian Thrun, David Stavens, and Mike Sokolsky offering massive open online courses (MOOCs).
 
 
 
